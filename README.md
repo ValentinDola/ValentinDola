@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ValentinDola
 - 👀 I’m interested in learning new languages
-- 🌱 I’m currently learning GraphQL
 - 💞️ I’m looking to collaborate on projects
 - 📫 Email me at dolavalentino@gmail.com
 
